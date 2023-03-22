@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaeem4.
 - 👀 I’m interested in dynamic web development and machine learning.
 - 🌱 I’m currently learning web3 and openAI.
-- 💞️ I’m looking to collaborate on Ether, Smartcontract, MERN Stack, openAI and shopify app development.
+- 💞️ I’m looking to collaborate on Blockchain, MERN Stack, openAI and shopify app development.
 - 📫 How to reach me? Email me at zaeem1169@gmail.com.
 
 Here are the links of my projects: <br/>
