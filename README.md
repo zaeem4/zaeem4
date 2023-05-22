@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaeem4.
-- 👀 I’m interested in fullstack web application.
+- 👀 I’m interested in Fullstack Web App development.
 - 🌱 I’m currently learning web3 and openAI.
 - 💞️ I’m looking to collaborate on Blockchain, MERN Stack, openAI and shopify app development.
 - 📫 How to reach me? Email me at zaeem1169@gmail.com.
