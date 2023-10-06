@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zaeem4.
-- 👀 I’m interested in Fullstack Web App development.
-- 🌱 I’m currently learning web3 and openAI.
-- 💞️ I’m looking to collaborate on Blockchain, MERN Stack, openAI and shopify app development.
-- 📫 How to reach me? Email me at zaeem1169@gmail.com.
+- 👀 I’m a Fullstack Web App developer.
+- 🌱 I’m currently learning web3 and etherium blockchian.
+- 💞️ I want to collaborate on Blockchain, MERN Stack, openAI, and Shopify app development.
+- 📫 How to reach me? Please email me at zaeem1169@gmail.com.
 
 Here are the links of industrial products developed by me: <br/>
 
@@ -10,9 +10,10 @@ Here are the links of industrial products developed by me: <br/>
   https://apps.shopify.com/whatsapp-order <br/>
   https://apps.shopify.com/extendons-digital-downloads <br/>
 
-  https://tminspector.com/ <br/>
   https://viseclub.visewealth.com/ <br/>
   https://wownft.vip/ <br/>
+  https://www.assuretrust.asia/ <br/>
+  https://tminspector.com/ <br/>
   
 <!---
 zaeem4/zaeem4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
