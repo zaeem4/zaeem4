@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @zaeem4.
 - 👀 I’m a Fullstack Web App developer.
-- 🌱 I’m currently learning web3 and etherium blockchian.
+- 🌱 I’m developing on web3 and blockchain including Ethereum and Cardano.
 - 💞️ I want to collaborate on Blockchain, MERN Stack, openAI, and Shopify app development.
 - 📫 How to reach me? Please email me at zaeem1169@gmail.com.
 
