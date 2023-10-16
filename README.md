@@ -14,7 +14,7 @@ Here are the links of industrial products developed by me: <br/>
   https://viseclub.visewealth.com/ <br/>
   https://wownft.vip/ <br/>
   https://www.assuretrust.asia/ <br/>
-  https://tminspector.com/ <br/>
+  https://zaytrics.com/tminspector/ <br/>
   
 <!---
 zaeem4/zaeem4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
