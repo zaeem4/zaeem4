@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m @zaeem4, a Fullstack Web App developer.
-- 🌱 I specialize in MERN stack and blockchain development, with a focus on Ethereum and Cardano.
+- 🌱 I specialize in MERN stack and Python development.
+- 🌱 I also have experience in blockchain development focusing on Ethereum and Cardano.
 - 💞️ Open to collaborations in Blockchain, MERN Stack, openAI, and Shopify app development.
 - 📫 Feel free to reach out via email at zaeem1169@gmail.com .
 
