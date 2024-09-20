@@ -11,11 +11,12 @@ https://apps.shopify.com/login-with-phone-number <br/>
 https://apps.shopify.com/whatsapp-order <br/>
 https://apps.shopify.com/extendons-digital-downloads <br/>
 
-https://zaytrics.com/vise-club/ <br/>
+https://vise.gold/ <br/>
 https://wownft.vip/ <br/>
 https://www.assuretrust.asia/ <br/>
 https://zaytrics.com/tminspector/ <br/>
-  
+https://mynd.app/ <br/>
+
 <!---
 zaeem4/zaeem4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
