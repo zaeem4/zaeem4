@@ -14,7 +14,7 @@ https://apps.shopify.com/extendons-digital-downloads <br/>
 https://vise.gold/ <br/>
 https://wownft.vip/ <br/>
 https://www.assuretrust.asia/ <br/>
-https://zaytrics.com/tminspector/ <br/>
+https://stonai.com <br/>
 https://mynd.app/ <br/>
 
 <!---
