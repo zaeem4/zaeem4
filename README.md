@@ -1,21 +1,20 @@
 
 - 👋 Hi, I’m @zaeem4, a Fullstack Web App developer.
 - 🌱 I specialize in MERN stack and Python development.
-- 🌱 I also have experience in blockchain development focusing on Ethereum and Cardano.
 - 💞️ Open to collaborations in Blockchain, MERN Stack, openAI, and Shopify app development.
-- 📫 Feel free to reach out via email at zaeem1169@gmail.com .
+- 📫 Feel free to reach out via email at zaeem1169@gmail.com.
 
 Check out some of the industrial products I've developed: <br/>
 
-https://apps.shopify.com/login-with-phone-number <br/>
-https://apps.shopify.com/whatsapp-order <br/>
-https://apps.shopify.com/extendons-digital-downloads <br/>
-
+https://mynd.app/ <br/>
 https://vise.gold/ <br/>
 https://wownft.vip/ <br/>
 https://www.assuretrust.asia/ <br/>
 https://stonai.com <br/>
-https://mynd.app/ <br/>
+
+https://apps.shopify.com/login-with-phone-number <br/>
+https://apps.shopify.com/whatsapp-order <br/>
+https://apps.shopify.com/extendons-digital-downloads <br/>
 
 <!---
 zaeem4/zaeem4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
