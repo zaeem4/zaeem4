@@ -1,8 +1,23 @@
 
-- 👋 Hi, I’m @zaeem4, a Fullstack Web App developer.
-- 🌱 I specialize in MERN stack and Python development.
-- 💞️ Open to collaborations in Blockchain, MERN Stack, openAI, and Shopify app development.
-- 📫 Feel free to reach out via email at zaeem1169@gmail.com.
+- 💻 Fullstack Web App Developer with over **5 years of experience** building high-quality, scalable, and user-friendly web applications.
+- ⚙️ Specialize in **MERN Stack**, **Python development**, and **Shopify app development**.
+- 🧠 Passionate about **AI integrations**, **Blockchain applications**, and **cutting-edge tech solutions**.
+- 🚀 Proven track record in developing robust platforms for industries such as:
+  - Management  
+  - Telehealth  
+  - Banking  
+  - Blockchain  
+  - Artificial Intelligence  
+  - E-commerce
+- 🔧 Skilled in delivering seamless user experiences through:
+  - Custom Web Applications  
+  - AI & OpenAI Integrations  
+  - Complex E-commerce Systems  
+- 🤝 Open to **collaborations** in:
+  - MERN Stack Projects  
+  - Blockchain Development  
+  - AI Integrations (e.g., OpenAI)
+- 📫 Let’s connect! Reach me at **zaeem1169@gmail.com**
 
 Check out some of the industrial products I've developed: <br/>
 
