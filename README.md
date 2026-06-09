@@ -13,7 +13,7 @@
 
 ---
 
-**Muhammad Zaeem Khan** (Zaeem Khan · zaeem4 · zaeem1169) · **6+ years** as a senior full-stack and AI developer building production systems in healthcare, finance, blockchain, and e-commerce.
+**6+ years** as a senior full-stack and AI developer building production systems in healthcare, finance, blockchain, and e-commerce.
 
 **Now:** Team Lead at [**Kindred Practice**](https://www.kindredpractice.com/) (AI practice management for therapists)
 
