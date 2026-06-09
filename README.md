@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Muhammad Zaeem Khan</h1>
-<h3 align="center">Zaeem Khan · Senior MERN Stack &amp; AI Engineer</h3>
+<h3 align="center">Senior MERN Stack &amp; AI Engineer</h3>
 
 <p align="center">
   <a href="https://zaeemkhan.vercel.app/">Portfolio</a> ·
